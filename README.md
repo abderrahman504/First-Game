@@ -5,8 +5,8 @@ If you want to try it, download a version of the godot engine which is a few meg
 
 
 How to Play:
-
 Move: WSAD
+
 Shoot: Left Mouse Button
 
 Shoot enemies. Dodge their bullets. Pick up their guns and health pickups.
